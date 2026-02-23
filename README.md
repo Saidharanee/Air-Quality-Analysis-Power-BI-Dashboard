@@ -19,7 +19,7 @@ This Power BI dashboard analyzes Air Quality Index (AQI) data to monitor polluti
 
 ---
 
-## Key Dashboard Features
+## 📊 Key Dashboard Features
 - AQI KPI indicator
 - City-wise AQI comparison
 - Pollutant breakdown
@@ -28,7 +28,7 @@ This Power BI dashboard analyzes Air Quality Index (AQI) data to monitor polluti
 
 ---
 
-## 🛠️Tools & Technologies
+## 🛠️ Tools & Technologies
 - Power BI
 - Power Query
 - DAX Measures
@@ -36,7 +36,7 @@ This Power BI dashboard analyzes Air Quality Index (AQI) data to monitor polluti
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -51,3 +51,9 @@ This Power BI dashboard analyzes Air Quality Index (AQI) data to monitor polluti
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
 3. Refresh data if required
+
+---
+
+## 👤 Author
+Dharanee Sree  
+Aspiring Data Analyst | Power BI Developer
